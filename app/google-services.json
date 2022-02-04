@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490175521478",
+    "project_id": "shopelectronics-9f8e7",
+    "storage_bucket": "shopelectronics-9f8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490175521478:android:d87c49337057e290266dc7",
+        "android_client_info": {
+          "package_name": "com.example.shopkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490175521478-2mnkpv6n2qj67uqj4ff1sq35ssvptfof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopkart",
+            "certificate_hash": "3cea24cf7cd2114aa946c405212ddb7385b969c6"
+          }
+        },
+        {
+          "client_id": "490175521478-ioqpd01kp5olireu0tgap782khi3i38i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2v49JH136ncGX_edzHLV49MhnrUWLtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490175521478-ioqpd01kp5olireu0tgap782khi3i38i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
