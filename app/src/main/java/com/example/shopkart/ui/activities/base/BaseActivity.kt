@@ -75,11 +75,7 @@ open class BaseActivity : AppCompatActivity() {
         ).show()
 
         lifecycleScope.launch {
-            /**
-             * Wait 2 sec for the user input.
-             * If user press back within 2 sec then it will allow to exit otherwise it will reset the
-             * backPress boolean and prevent to exit.
-             */
+
             delay(2000)
             mDoubleBackPress = false
         }

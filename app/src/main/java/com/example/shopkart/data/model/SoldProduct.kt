@@ -3,9 +3,7 @@ package com.example.shopkart.data.model
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
-/**
- * Created By Dhruv Limbachiya on 24-11-2021 10:33 AM.
- */
+
 
 @Parcelize
 data class SoldProduct(

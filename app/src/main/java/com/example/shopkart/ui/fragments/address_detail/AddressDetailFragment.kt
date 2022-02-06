@@ -14,9 +14,7 @@ import com.example.shopkart.util.Resource
 import com.example.shopkart.util.showSnackBar
 import dagger.hilt.android.AndroidEntryPoint
 
-/**
- * Created By Dhruv Limbachiya on 09-11-2021 14:22.
- */
+
 
 @AndroidEntryPoint
 class AddressDetailFragment : BaseFragment() {

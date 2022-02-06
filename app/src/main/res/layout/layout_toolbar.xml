@@ -8,7 +8,7 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:background="@drawable/drawable_gradient_splash_background"
+        android:background="@color/purple_200"
         android:theme="@style/ToolbarColoredBackArrow"
         app:contentInsetLeft="@dimen/dimen_16dp"
         app:contentInsetEnd="@dimen/dimen_32dp"
@@ -27,7 +27,7 @@
             android:text="@string/text_dashboard"
             android:textAllCaps="true"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
-            android:textColor="@color/white" />
+            android:textColor="@color/primary" />
 
     </androidx.appcompat.widget.Toolbar>
 

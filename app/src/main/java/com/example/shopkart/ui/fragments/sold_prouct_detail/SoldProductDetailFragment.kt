@@ -8,9 +8,7 @@ import androidx.fragment.app.viewModels
 import com.example.shopkart.databinding.FragmentSoldProductDetailBinding
 import com.example.shopkart.ui.fragments.base.BaseFragment
 
-/**
- * Created By Dhruv Limbachiya on 24-11-2021 12:36 PM.
- */
+
 class SoldProductDetailFragment : BaseFragment() {
 
     lateinit var mBinding: FragmentSoldProductDetailBinding

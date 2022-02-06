@@ -12,9 +12,7 @@ import com.example.shopkart.util.SharePreferenceUtil
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
-/**
- * Created by Dhruv Limbachiya on 26-10-2021.
- */
+
 @HiltViewModel
 class SettingViewModel @Inject constructor(
     private val sharedPreferenceUtil: SharePreferenceUtil,

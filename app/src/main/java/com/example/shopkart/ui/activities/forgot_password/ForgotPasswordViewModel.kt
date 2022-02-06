@@ -8,9 +8,7 @@ import com.example.shopkart.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 14-10-2021 14:30.
- */
+
 @HiltViewModel
 class ForgotPasswordViewModel @Inject constructor(
     private val firebaseUtil: FirebaseUtil

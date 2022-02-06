@@ -19,9 +19,7 @@ import com.example.shopkart.util.showSnackBar
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 03-11-2021 18:38.
- */
+
 
 @AndroidEntryPoint
 class CartListFragment : BaseFragment() {

@@ -15,9 +15,7 @@ import com.example.shopkart.util.showSnackBar
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 21-10-2021 10:56..
- */
+
 
 @AndroidEntryPoint
 class ProductFragment : BaseFragment() {

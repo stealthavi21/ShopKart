@@ -47,7 +47,7 @@ class DashboardActivity : BaseActivity() {
         // Configure App bar by specifying all top level destinations.
         val appBarConfiguration = AppBarConfiguration(
             setOf(
-                R.id.dashboardFragment, R.id.productFragment, R.id.orderFragment , R.id.soldProductFragment
+                R.id.dashboardFragment, R.id.productFragment
             )
         )
 

@@ -15,9 +15,6 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 
-/**
- * Created by Dhruv Limbachiya on 01-11-2021.
- */
 
 @HiltViewModel
 class ProductDetailViewModel @Inject constructor(

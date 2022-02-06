@@ -10,9 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.shopkart.data.model.Order
 import com.example.shopkart.databinding.LayoutOrderItemBinding
 
-/**
- * Created By Dhruv Limbachiya on 23-11-2021 11:52 AM.
- */
+
 class OrderListAdapter :
     ListAdapter<Order, OrderListAdapter.OrderListViewHolder>(OrderItemDiffCallback()) {
 

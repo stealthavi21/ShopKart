@@ -1,8 +1,6 @@
 package com.example.shopkart.util
 
-/**
- * Created By Dhruv Limbachiya on 13-10-2021 13:17.
- */
+
 sealed class Resource<T>(
     val data: T? = null,
     val message: String? = null

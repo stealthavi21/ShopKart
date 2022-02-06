@@ -7,9 +7,6 @@ import com.example.shopkart.ui.activities.base.BaseViewModel
 import com.example.shopkart.util.ObservableString
 import dagger.hilt.android.lifecycle.HiltViewModel
 
-/**
- * Created By Dhruv Limbachiya on 23-11-2021 12:43 PM.
- */
 
 class OrderDetailViewModel : BaseViewModel() {
 

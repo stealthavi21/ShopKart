@@ -14,9 +14,7 @@ import com.example.shopkart.util.showSnackBar
 import com.example.shopkart.util.showToast
 import dagger.hilt.android.AndroidEntryPoint
 
-/**
- * Created by Dhruv Limbachiya on 28-10-2021.
- */
+
 
 @AndroidEntryPoint
 class AddProductFragment : BaseFragment() {

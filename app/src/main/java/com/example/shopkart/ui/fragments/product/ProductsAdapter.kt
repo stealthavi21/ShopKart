@@ -8,9 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.shopkart.data.model.Product
 import com.example.shopkart.databinding.LayoutProductItemBinding
 
-/**
- * Created by Dhruv Limbachiya on 29-10-2021.
- */
+
 class ProductsAdapter() :
     ListAdapter<Product, ProductsAdapter.ProductViewHolder>(ProductDiffCallback()) {
 

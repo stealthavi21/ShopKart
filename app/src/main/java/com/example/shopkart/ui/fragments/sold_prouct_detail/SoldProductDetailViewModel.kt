@@ -7,9 +7,6 @@ import com.example.shopkart.data.model.SoldProduct
 import com.example.shopkart.ui.activities.base.BaseViewModel
 import com.example.shopkart.util.ObservableString
 
-/**
- * Created By Dhruv Limbachiya on 24-11-2021 12:36 PM.
- */
 
 class SoldProductDetailViewModel : BaseViewModel() {
 

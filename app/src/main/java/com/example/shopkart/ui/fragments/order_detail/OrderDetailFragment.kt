@@ -13,9 +13,7 @@ import com.example.shopkart.ui.fragments.order.OrderListAdapter
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 23-11-2021 12:42 PM.
- */
+
 
 @AndroidEntryPoint
 class OrderDetailFragment : BaseFragment() {

@@ -22,9 +22,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
 
-/**
- * Created By Dhruv Limbachiya on 13-10-2021 12:38.
- */
+
 
 fun showSnackBar(view: View, message: String, isError: Boolean = false) {
     val snackBar = Snackbar.make(view, message, Snackbar.LENGTH_LONG)

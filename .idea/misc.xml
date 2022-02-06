@@ -7,17 +7,38 @@
         <entry key="..\:/Downloads/ShopKart-master/ShopKart-master/app/src/main/res/layout/fragment_setting.xml" value="0.15307971014492755" />
         <entry key="..\:/Downloads/ShopKart-master/ShopKart-master/app/src/main/res/layout/fragment_sold_product.xml" value="0.152" />
         <entry key="..\:/Downloads/ShopKart-master/ShopKart-master/app/src/main/res/layout/fragment_sold_product_detail.xml" value="0.2" />
-        <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_dashboard.xml" value="0.1793478260869565" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/drawable/drawable_gradient_splash_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/drawable/drawable_product_image_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/drawable/drawable_profile_image_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_forgot_password.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_registration.xml" value="0.1793478260869565" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/activity_splash.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_add_product.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_address_detail.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_cart_list.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_checkout.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_dashboard.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_my_address.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_order.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_order_detail.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_product.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_product_detail.xml" value="0.17300724637681159" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_profile.xml" value="0.1793478260869565" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_setting.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_sold_product.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/fragment_sold_product_detail.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_address_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_cart_item.xml" value="0.17300724637681159" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_dashboard_item.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_order_item.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_product_item.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_sold_product_item.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/layout_toolbar.xml" value="0.1793478260869565" />
         <entry key="..\:/Electro_Mart/app/src/main/res/layout/progressbar_dialog_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Electro_Mart/app/src/main/res/menu/main_menu.xml" value="0.25" />
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/drawable/drawable_button.xml" value="0.1" />
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/drawable/drawable_gradient_splash_background.xml" value="0.15" />
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/drawable/drawable_profile_image_background.xml" value="0.1" />

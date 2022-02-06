@@ -29,7 +29,7 @@
             style="@style/Widget.MaterialComponents.BottomNavigationView.Colored"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:background="@drawable/drawable_gradient_splash_background"
+            android:background="@color/purple_200"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

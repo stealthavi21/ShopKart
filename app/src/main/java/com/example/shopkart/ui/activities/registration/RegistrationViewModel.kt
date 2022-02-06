@@ -10,9 +10,7 @@ import com.example.shopkart.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 13-10-2021 12:34.
- */
+
 
 @HiltViewModel
 class RegistrationViewModel @Inject constructor(

@@ -60,6 +60,7 @@
             android:textColor="@color/gray"
             android:textSize="@dimen/dimen_16sp"
             app:layout_constraintEnd_toEndOf="parent"
+            android:visibility="gone"
             app:layout_constraintTop_toBottomOf="@+id/iv_heading" />
 
         <TextView
@@ -131,6 +132,7 @@
             app:drawableRightCompat="@drawable/ic_right_arrow"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
+            android:visibility="gone"
             app:layout_constraintTop_toBottomOf="@+id/tv_settings_mobile" />
 
         <androidx.appcompat.widget.AppCompatButton

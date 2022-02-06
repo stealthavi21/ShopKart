@@ -15,9 +15,7 @@ import com.example.shopkart.util.showSnackBar
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-/**
- * Created By Dhruv Limbachiya on 21-10-2021 10:56..
- */
+
 @AndroidEntryPoint
 class OrderFragment : BaseFragment() {
 
@@ -76,7 +74,7 @@ class OrderFragment : BaseFragment() {
      */
     private fun addDataToRecyclerView(orders: List<Order>) {
         hideProgressbar()
-        mBinding.rvOrders.apply {
+        /*mBinding.rvOrders.apply {
             adapter = mAdapter
             if (orders.isNotEmpty()) {
                 mAdapter.submitList(orders)
@@ -86,7 +84,7 @@ class OrderFragment : BaseFragment() {
                 this.findNavController()
                     .navigate(OrderFragmentDirections.actionOrderFragmentToOrderDetailFragment(it))
             }
-        }
+        } */
     }
 
     /**

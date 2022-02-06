@@ -12,37 +12,20 @@ import com.example.shopkart.R
 import com.example.shopkart.data.model.CartItem
 import com.example.shopkart.databinding.LayoutCartItemBinding
 
-/**
- * Created By Dhruv Limbachiya on 03-11-2021 19:34.
- */
+
 class CartListAdapter :
     ListAdapter<CartItem, CartListAdapter.CartListViewHolder>(CartItemDiffCallback()) {
 
-    /**
-     * variable tracks whether the adapter is used for displaying editable cart items in CartListFragment or uneditable cart items in CheckoutFragment.
-     * true means - Editable (CartListFragment). false means - Non-Editable (CheckoutFragment)
-     */
     private var isEditable = true
 
-    /**
-     * Setter for isEditable property.
-     */
+
     fun setIsEditable(editable: Boolean) {
         isEditable = editable
     }
 
-    /**
-     *  Cart Item delete listener of type function which takes two input.
-     *  1. CartItem : cartItem to delete.
-     *  2. Boolean : To check whether to display warning before deleting or delete directly without warning.
-     */
     private var deleteProductListener: ((CartItem, Boolean) -> Unit)? = null
 
-    /**  CartQuantity listener of type function which takes two input
-     *  1. String : cart item id.
-     *  2. String : stock quantity.
-     *  2. String : message to display using SnackBar.
-     */
+
     private var cartQuantityListener: ((String?, String?, String?) -> Unit)? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CartListViewHolder {
