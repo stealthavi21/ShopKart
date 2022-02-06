@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/drawable_gradient_splash_background"
+    android:background="@color/browser_actions_bg_grey"
     tools:context=".ui.activities.splash.SplashActivity">
 
     <ImageView
@@ -28,7 +28,7 @@
         android:layout_marginTop="@dimen/dimen_100dp"
         android:fontFamily="@font/quicksand_medium"
         android:text="@string/app_name"
-        android:textColor="@color/white"
+        android:textColor="@color/primary"
         android:textAppearance="@style/TextAppearance.MaterialComponents.Headline3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
