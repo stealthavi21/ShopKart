@@ -18,7 +18,7 @@
             android:id="@+id/heading_layout"
             android:layout_width="match_parent"
             android:layout_height="@dimen/dimen_200dp"
-            android:background="@drawable/drawable_gradient_splash_background"
+            android:background="@color/browser_actions_bg_grey"
             android:gravity="center"
             tools:ignore="MissingConstraints">
 
@@ -39,7 +39,7 @@
                 android:gravity="center"
                 android:text="@string/app_name"
                 android:textAppearance="@style/TextAppearance.MaterialComponents.Headline4"
-                android:textColor="@color/white" />
+                android:textColor="@color/primary" />
 
         </LinearLayout>
 
