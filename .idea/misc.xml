@@ -85,6 +85,12 @@
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/menu/bottom_nav_menu.xml" value="0.153125" />
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/menu/main_menu.xml" value="0.1361111111111111" />
         <entry key="..\:/Users/Dhruv Limbachiya/AndroidStudioProjects/ShopKart/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/fragment_cart_list.xml" value="0.2" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/layout_sold_product_item.xml" value="0.18" />
+        <entry key="..\:/Users/aviralsrivastava/StudioProjects/ElectroMart/app/src/main/res/layout/progressbar_dialog_layout.xml" value="0.25" />
       </map>
     </option>
   </component>
